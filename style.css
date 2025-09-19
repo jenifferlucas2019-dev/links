@@ -1,11 +1,24 @@
 h1{
     color: rgb(184, 38, 38);
     background-color: rgb(117, 59, 172);
-    
-
+    text-align: center;
+    border-radius: 10px ;
 }
+
 body{
     background-color: #333333; 
    color: rgb(41, 88, 23);
+   display: block;
+   text-align: center;
+}
+
+a{
+    background-color: #666666;
+    color: aqua;
+    display: block;
+    text-align: center;
+    margin: 30px; 
+    padding: 10px;
+
 }
 
